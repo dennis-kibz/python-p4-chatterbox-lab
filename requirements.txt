@@ -1,0 +1,11 @@
+flask
+flask-sqlalchemy
+Werkzeug
+flask-migrate
+flask-restful
+importlib-metadata
+importlib-resources
+ipdb
+pytest
+faker
+sqlalchemy-serializer
